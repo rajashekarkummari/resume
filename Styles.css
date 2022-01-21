@@ -1,0 +1,22 @@
+.outer{
+  border:1px solid; 
+  border-collapse: collapse;
+}
+
+/* body{
+  background-color
+} */
+
+td, th{
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+.a{
+  color: black;
+
+}
+
+h3{
+text-decoration: underline;
+}
